@@ -1,4 +1,15 @@
-# Hi there 👋, Nate here! 
+# Hi there 👋, Nate here! 🇲🇾
+
+Senior here at Virginia Tech studying Computer Science
+<!-- 
+![Nates's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunny7dusk&show_icons=true&theme=gotham&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunny7dusk&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=sunny7dusk&show_icons=true&theme=gotham&hide_border=true">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny7dusk&theme=vue-dark&layout=compact">  
+</p>
 
 ## Skills
 
