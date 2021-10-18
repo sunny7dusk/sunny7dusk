@@ -6,14 +6,14 @@ Senior here at Virginia Tech studying Computer Science
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunny7dusk&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sunny7dusk&show_icons=true&theme=gotham&hide_border=true">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny7dusk&theme=vue-dark&layout=compact">  
 </p>
 
 ## Skills
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
