@@ -6,6 +6,8 @@ Senior here at Virginia Tech studying Computer Science
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunny7dusk&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
+![](https://komarev.com/ghpvc/?username=sunny7dusk&color=blue)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sunny7dusk&show_icons=true&theme=gotham&hide_border=true">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny7dusk&theme=vue-dark&layout=compact">  
