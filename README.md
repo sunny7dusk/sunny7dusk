@@ -12,7 +12,7 @@ Working as a Senior Consultant
 
 <p align="center">
   <img src="https://github-readme-stats-two-wheat.vercel.app/api?username=sunny7dusk&show_icons=true&theme=transparent&hide_border=true">  
-  <img src="https://github-readme-stats-two-wheat.vercel.app/api/top-langs/?username=sunny7dusk&theme=transparent&layout=compact">  
+  <img src="https://github-readme-stats-two-wheat.vercel.app/api/top-langs/?username=sunny7dusk&theme=transparent&hide=css">  
 </p>
 
 ## Skills
