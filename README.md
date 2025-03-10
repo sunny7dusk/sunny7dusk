@@ -1,10 +1,10 @@
 # Hi there 👋, Nate here! 🇲🇾
 
-Senior here at Virginia Tech studying Computer Science
+Working as a Senior Consultant
 <!-- 
-![Nates's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunny7dusk&show_icons=true&theme=gotham&hide_border=true)
+![Nates's GitHub stats](https://github-readme-stats-two-wheat.vercel.app/api?username=sunny7dusk&show_icons=true&theme=gotham&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunny7dusk&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats-two-wheat.vercel.app/api/top-langs/?username=sunny7dusk&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![](https://komarev.com/ghpvc/?username=sunny7dusk&color=blue)
 
