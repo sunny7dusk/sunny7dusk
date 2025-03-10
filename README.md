@@ -2,17 +2,17 @@
 
 Working as a Senior Consultant
 <!-- 
-![Nates's GitHub stats](https://github-readme-stats-two-wheat.vercel.app/api?username=sunny7dusk&show_icons=true&theme=gotham&hide_border=true)
+![Nates's GitHub stats](https://github-readme-stats-two-wheat.vercel.app/api?username=sunny7dusk&show_icons=true&theme=transparent&hide_border=true)
 
-[![Top Langs](https://github-readme-stats-two-wheat.vercel.app/api/top-langs/?username=sunny7dusk&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats-two-wheat.vercel.app/api/top-langs/?username=sunny7dusk&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![](https://komarev.com/ghpvc/?username=sunny7dusk&color=blue)
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
 
 <p align="center">
-  <img src="https://github-readme-stats-two-wheat.vercel.app/api?username=sunny7dusk&show_icons=true&theme=gotham&hide_border=true">  
-  <img src="https://github-readme-stats-two-wheat.vercel.app/api/top-langs/?username=sunny7dusk&theme=vue-dark&layout=compact">  
+  <img src="https://github-readme-stats-two-wheat.vercel.app/api?username=sunny7dusk&show_icons=true&theme=transparent&hide_border=true">  
+  <img src="https://github-readme-stats-two-wheat.vercel.app/api/top-langs/?username=sunny7dusk&theme=transparent&layout=compact">  
 </p>
 
 ## Skills
